@@ -1,1 +1,1 @@
-# Conky-config
+# Conky-config for archlinux/manjaro
